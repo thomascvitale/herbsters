@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[herbsters.qt-translation-014x]
+file_filter = src/qt/locale/herbsters_<lang>.ts
+source_file = src/qt/locale/herbsters_en.ts
+source_lang = en
